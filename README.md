@@ -1,0 +1,1 @@
+This is a simple Python project that automatically scrapes top news headline from The Indian Express and saves them into a text file. It sends an HTTP request to a news website and parses the HTML using BeautifulSoup and saves collected headlines in headline.txt file.
